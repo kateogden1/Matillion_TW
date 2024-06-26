@@ -16,7 +16,7 @@
 <p>Under <em>What brings you to Matillion today? Select all that apply.</em>, select your use cases from the drop-down list.</p>
 </li>
 <li>
-<p>(Optional) If you selected <strong>Something else</strong> in step 6, under <em>Specify what brings you to Matillion today</em>, specify your use case.</p>
+<p>(Optional) If you selected <strong>Something else</strong>, under <em>Specify what brings you to Matillion today</em>, specify your use case.</p>
 <blockquote>
 <p>For example, ‘Test account’.</p>
 </blockquote>
