@@ -8,7 +8,7 @@
 <li>In your browser, go to <a href="https://www.matillion.com/">https://www.matillion.com/</a>.</li>
 <li>Click <strong>Start free trial</strong> to create an account (<a href="https://hub.matillion.com/register">https://hub.matillion.com/register</a>).</li>
 <li>Click <strong>Sign up with Microsoft Account</strong>.</li>
-<li>Click <strong>Accept</strong> to consent to the required permissions.<img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfPZ_N6c2gvHXgIKD1Qc7a4E_mFVlj2D_TpPHpk7Lsj_eHGL63m_-7RcWSJxhWs3PaS0fKVxgwm4M-mYfdpbI7WhZvs2AbbnSJQCKWlWWJYBK-AypeMOQJXLr1PqkjFxm-bkchX6LNuLQf96qly-WspAdw?key=NQDT41uFjikFmh7qHzgz3Q" alt="Microsoft Account Permissions" width="250" height="290"></li>
+<li>Click <strong>Accept</strong> to consent to the required permissions.<p align="left"><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfPZ_N6c2gvHXgIKD1Qc7a4E_mFVlj2D_TpPHpk7Lsj_eHGL63m_-7RcWSJxhWs3PaS0fKVxgwm4M-mYfdpbI7WhZvs2AbbnSJQCKWlWWJYBK-AypeMOQJXLr1PqkjFxm-bkchX6LNuLQf96qly-WspAdw?key=NQDT41uFjikFmh7qHzgz3Q" alt="Microsoft Account Permissions" width="250" height="290"></p></li>
 <li>On the <em>Tell us more about your goals</em> page, answer the three questions:</li>
 </ol>
 <ul>
